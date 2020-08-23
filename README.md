@@ -6,7 +6,7 @@ ___
 # Introduction
 The Polar Regions are becoming more important for transportation and resources exploitation. But traveling to the Arctic or Antarctic requires information on the sea ice situation and planning becomes uncertain without having any idea about sea ice evolution in the desired period. Hence, in order to ease planning of any activity in near furture, an easy to handle short-term sea-ice extent forecast has been developed. Sea-ice prediction to go, so to speak.
 
-![alt text](https://github.com/skrutzky/SeaIce_Prediction/blob/master/Arctic_and_Antarctic_Monthly_SeaIceExtent_since_Nov1978.gif?raw=true)
+![alt text](https://github.com/skrutzky/SeaIce_Prediction/blob/master/SeaIcePicture.JPG?raw=true)
 
 **Project goals**
 * identify major drivers for sea ice extent changes (in individual sectors)
