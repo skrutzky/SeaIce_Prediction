@@ -21,6 +21,10 @@ The Polar Regions are becoming more important for transportation and resources e
 Python / Pandas / NumPy / Matplotlib / Seaborn / Basemap / Scikit-Learn / Logistic Regression / XGBoost / PCA  / Time series prediction / SARIMAx  / Google Cloud Platform / TensorFlow
 
 # Conclusions
+* SARIMA can beat the naive forecast for a prediction length of 6 months
+* for longer predictions, a combination from SARIMA and the Naive model looks promising
+* SARIMA predictions of ICA seem to be more appropriate in summer months than CMIP predictions. For SIE, CMIP shows higher variability but often still too low values (summer). However, comparing SIE from CMIP with its low resolution grids and satellite derived SIE with comparatively high spatial resolution is a bit difficult, therefore ICA is a better mean for comparisons.
+* predicting sea ice in the Antarctic is more difficult and has higher inaccuracy than in the Arctic
 
 # Outlook
 ___
